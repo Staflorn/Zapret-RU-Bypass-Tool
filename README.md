@@ -1,6 +1,7 @@
-<h1 align="center">
-    <span>RU-Bypass-Tool for Zapret</span>
-<img width="auto" height="50" alt="image" src="https://github.com/Staflorn/Zapret-RU-Bypass-Tool/blob/main/RU_Bypass_Tool/assets/Logo.png"/>
+<h1 align="center"> 
+<img width="auto" height="100" alt="image" src="https://github.com/Staflorn/Zapret-RU-Bypass-Tool/blob/main/RU_Bypass_Tool/assets/Logo.png"/>
+
+<span>RU-Bypass-Tool for Zapret</span>
 </h1>
 
 ![Status](https://img.shields.io/badge/status-alpha-orange) 
