@@ -43,8 +43,8 @@
 ## Screenshots
 
 <h1 align="center"> 
-<img width="auto" height="300" alt="image" src="https://github.com/Staflorn/Zapret-RU-Bypass-Tool/blob/main/screenshots/main.png"/>
-<img width="auto" height="300" alt="image" src="https://github.com/Staflorn/Zapret-RU-Bypass-Tool/blob/main/screenshots/files.png"/>
+<img width="auto" height="250" alt="image" src="https://github.com/Staflorn/Zapret-RU-Bypass-Tool/blob/main/screenshots/main.png"/>
+<img width="auto" height="2550" alt="image" src="https://github.com/Staflorn/Zapret-RU-Bypass-Tool/blob/main/screenshots/files.png"/>
 </h1>
 ## Установка
 
