@@ -1,5 +1,4 @@
 # Zapret-RU-Bypass-Tool
-Интерфейс для zapret-discord-youtube
 
 Графический интерфейс для zapret-discord-youtube
 
