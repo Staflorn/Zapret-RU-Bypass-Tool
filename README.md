@@ -46,6 +46,7 @@
 <img width="auto" height="250" alt="image" src="https://github.com/Staflorn/Zapret-RU-Bypass-Tool/blob/main/screenshots/main.png"/>
 <img width="auto" height="250" alt="image" src="https://github.com/Staflorn/Zapret-RU-Bypass-Tool/blob/main/screenshots/files.png"/>
 </h1>
+
 ## Установка
 
 1. Скачайте последний релиз
