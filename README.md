@@ -1,6 +1,8 @@
 # Zapret-RU-Bypass-Tool
 ![Status](https://img.shields.io/badge/status-alpha-orange) 
+
 ![Platform](https://img.shields.io/badge/platform-Windows-blue) 
+
 [![ru](https://img.shields.io/badge/lang-ru-green.svg)](./readme.md) 
 
 Графический интерфейс для zapret-discord-youtube
